@@ -456,7 +456,12 @@ HTML介绍：
 - 标记信件
     
     仿照这个https://roy-tian.github.io/mdn-examples/html/letter/    网站，用HTML进行复原。
--
+    
+- 构建内容丰富的网页
+
+    仿照这个 https://roy-tian.github.io/mdn-examples/html/bird-watching/  网站，用HTML对其结构进行复原
+
+
 
 
 
