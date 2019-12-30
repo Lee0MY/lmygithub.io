@@ -455,7 +455,7 @@ HTML介绍：
 作业：
 - 标记信件
     
-    仿照这个https://roy-tian.github.io/mdn-examples/html/letter/网站，用HTML进行复原。
+    仿照这个https://roy-tian.github.io/mdn-examples/html/letter/    网站，用HTML进行复原。
 -
 
 
